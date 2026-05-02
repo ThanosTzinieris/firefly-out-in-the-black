@@ -7,7 +7,7 @@
 
 A 2D arcade-style space shooter built with Python and Pygame, inspired by classic space combat games and the Firefly universe.
 
-Take control of Serenity and survive waves of Reaver ships, unpredictable meteor trajectories, and escalating combat scenarios — all rendered through a dynamic, resolution-independent engine.
+Take control of Serenity and survive waves of Reaver ships, unpredictable meteor trajectories, and escalating combat scenarios, all rendered through a dynamic, resolution-independent engine.
 
 ---
 
