@@ -182,7 +182,7 @@ This project was built as part of my ongoing journey into software development, 
 
 ## Future Improvements
 
-- Difficulty scaling system (arsenal progression, enemy motion, meteor hazard)
+- Difficulty scaling system (arsenal progression, enemy motion, meteor storms)
 - Sound effects expansion
 - Settings menu
 
