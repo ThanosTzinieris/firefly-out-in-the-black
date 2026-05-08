@@ -4,6 +4,7 @@
 <br>
 
 # Firefly: Out in the Black
+[Download Windows Build](https://github.com/ThanosTzinieris/firefly-out-in-the-black/releases/latest)
 
 A 2D arcade-style space shooter built with Python and Pygame, inspired by classic space combat games and the Firefly universe.
 
